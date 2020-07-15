@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1466714",
+      "name": "历史",
+      "font_class": "lishi",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "3096972",
+      "name": "右箭头",
+      "font_class": "icon",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "3640390",
+      "name": "右箭头",
+      "font_class": "arr-right",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    },
+    {
+      "icon_id": "5661097",
+      "name": "历史",
+      "font_class": "lishi1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "7517890",
+      "name": "右箭头",
+      "font_class": "icon1",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "8642437",
+      "name": "右箭头",
+      "font_class": "arrow-left",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "9704263",
+      "name": "对话",
+      "font_class": "duihua",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "10443431",
+      "name": "右箭头",
+      "font_class": "iconfontyoujiantou-copy",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13999446",
+      "name": "历史",
+      "font_class": "lishi2",
+      "unicode": "e521",
+      "unicode_decimal": 58657
+    },
+    {
+      "icon_id": "14318610",
+      "name": "历史",
+      "font_class": "lishi3",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    }
+  ]
+}
